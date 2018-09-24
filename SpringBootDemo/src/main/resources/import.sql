@@ -1,1 +1,0 @@
-select * from FREELANCER_PROTOTYPE_DB.USER;
